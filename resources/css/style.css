@@ -1,0 +1,22 @@
+
+header {
+	height: 70px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 10px 20px;
+	margin: 0 auto;
+	font-family: Verdana;
+  	font-size: 14px;
+  	font-weight: bold;
+  	border-bottom: 1px solid black;
+}
+
+.logoName {
+	color: MediumAquamarine;
+	padding: 0px 10px;
+}
+
+.nav {
+	padding: 0px 5px;
+}
